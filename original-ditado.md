@@ -1,0 +1,7 @@
+# Premissa ditada pelo usuário em 07/10/2026
+
+Ela anda pela rua como qualquer pessoa comum. Está com uma garrafa de água na mão. Um mendigo pede um dinheiro para comprar pão e em seguida olha para a mão da mulher e vê que ela carrega um recipiente com água. Então ele pede água, a água que ela carrega. A princípio ela hesita, olha para a garrafa, olha para o mendigo e ele novamente pede água para ela. Ela não pensa muito, lhe dá o recipiente. Ele toma aquele líquido e no outro dia ele acorda muito otimista, inteligente, tendo mil ideias de negócio. Então ele recorda que a única coisa que fez diferente foi tomar aquela água. Realmente ela é uma água milagrosa. Quem toma abre até 100% do cérebro. Ele vira um grande investidor e está à procura daquela mulher. Ela é química e está tentando algumas fórmulas e estava levando para casa para testar em si própria. Ela aperfeiçoa mais a fórmula e ela toma e abre sua inteligência também 100%. Ali ela começa a procurá-lo em sua mente e começa a se conectar com outro igual. Após alguns percalços, eles se encontram. Ela fala dos seus planos e dos dele para o futuro.
+
+Pedido: título; livro com cerca de 35 minutos de leitura; continuação futura; personagens Yolanda e Israel; amiga de laboratório; edição de livros KDP; capa, contracapa, capítulos e síntese; texto completo para copiar no caderno.
+
+Orientação adicional expressa: “Os dois, por enquanto, não terão relação nenhuma, tá? São só negócios.” A relação no volume 1 é exclusivamente profissional, de negócios e pesquisa, sem romance.
