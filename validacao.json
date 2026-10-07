@@ -1,0 +1,14 @@
+{
+  "date": "2026-10-07",
+  "chapters": 10,
+  "narrative_words": 6651,
+  "reading_minutes_at_190_wpm": 35.0,
+  "pdf_pages": 39,
+  "pdf_all_paragraphs_preserved": true,
+  "epub_zip_xml_links_spine_text": true,
+  "pdf_visual_review": "39/39 pages rendered; full contact-sheet inspection for layout; cover and back cover inspected; no clipping or overlap observed",
+  "epubcheck": "not executed",
+  "kindle_previewer": "not executed",
+  "print_kdp_preview": "not executed",
+  "public_backup": "pending: GitHub CLI authentication invalid; network connection failed"
+}

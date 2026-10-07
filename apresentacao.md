@@ -20,7 +20,7 @@ Uma história sobre inteligência, responsabilidade e o valor de enxergar quem s
 
 ## Proposta visual
 
-Capa frontal: entrega da garrafa numa rua ao anoitecer; azul petróleo, luz dourada e filamentos luminosos dentro da água. Título em destaque, subtítulo “O encontro”, identificação “Livro 1”. Sem nome autoral até que o titular informe como deseja assinar. Arte gerada com a ferramenta integrada de imagens; arquivo original preservado em capa-conceitual.png. Tipografia editável da alternativa de produção em capa-editavel.svg, com a arte incorporada e painel de título. Contracapa com texto sem spoilers, em azul petróleo, alinhamento à esquerda e espaço inferior livre. Nenhuma lombada técnica foi fechada.
+Capa frontal: entrega da garrafa numa rua ao anoitecer; azul petróleo, luz dourada e filamentos luminosos dentro da água. Título em destaque, subtítulo “O encontro”, identificação “Livro 1”. Sem nome autoral até que o titular informe como deseja assinar. Arte gerada com a ferramenta integrada de imagens; arquivo original preservado em capa-conceitual.png e cópia JPEG em capa-frontal.jpg. O texto da frente está incorporado à arte raster; a tipografia de uma futura capa técnica deverá ser recomposta em camada editável. Contracapa com texto sem spoilers, em azul petróleo, alinhamento à esquerda e espaço inferior livre; texto editável em contracapa-editavel.svg. Nenhuma lombada técnica foi fechada.
 
 ## Continuação futura
 
