@@ -22,4 +22,4 @@ O script `produzir.py` reproduz os arquivos com ReportLab, Pillow e pypdf; usa f
 
 ## Sincronização
 
-Histórico preservado em repositório Git local próprio. Backup público no GitHub pendente: CLI informou autenticação inválida e falha de conexão; criação/envio não confirmados. Nome pretendido, sujeito a verificar existência antes de criar: `vorneermel/a-agua-do-despertar`. Não há URL pública verificada. Após restaurar autenticação e conexão, reutilizar o repositório correto se existir, enviar o histórico local sem forçar e confirmar SHA remoto e visibilidade pública. Identidade local “Codex Editorial” identifica a automação de commits, não autoria literária.
+Backup público concluído em 10/10/2026: https://github.com/vorneermel/a-agua-do-despertar . Autenticação renovada pelo usuário; histórico local enviado sem forçar. Visibilidade PUBLIC e commit de entrega 9eeca45918f7f25dc827d09d456af889a36910a3 confirmados no remoto. Manuscrito, premissa, capítulos, PDF, EPUB, capas e registros incluídos. Identidade local “Codex Editorial” identifica a automação de commits, não autoria literária.

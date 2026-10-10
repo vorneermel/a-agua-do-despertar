@@ -134,6 +134,7 @@ with zipfile.ZipFile(epub) as z:
         e=ET.fromstring(z.read(f'OEBPS/c{i:02}.xhtml'))
         actual=''.join(''.join(p.itertext()) for p in e.iter('{'+ns+'}p'))
         assert normalize(actual)==normalize(body)
-validation={'date':'2026-10-07','chapters':len(chapters),'narrative_words':words,'reading_minutes_at_190_wpm':round(words/190,1),'pdf_pages':len(PdfReader(pdf).pages),'pdf_all_paragraphs_preserved':True,'epub_zip_xml_links_spine_text':True,'pdf_visual_review':'pending','epubcheck':'not executed','kindle_previewer':'not executed','print_kdp_preview':'not executed','public_backup':'pending: GitHub CLI authentication invalid; network connection failed'}
+previous_validation=json.loads((ROOT/'validacao.json').read_text(encoding='utf-8')) if (ROOT/'validacao.json').exists() else {}
+validation={'date':'2026-10-07','chapters':len(chapters),'narrative_words':words,'reading_minutes_at_190_wpm':round(words/190,1),'pdf_pages':len(PdfReader(pdf).pages),'pdf_all_paragraphs_preserved':True,'epub_zip_xml_links_spine_text':True,'pdf_visual_review':'pending','epubcheck':'not executed','kindle_previewer':'not executed','print_kdp_preview':'not executed','public_backup':previous_validation.get('public_backup','not verified')}
 (ROOT/'validacao.json').write_text(json.dumps(validation,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps(validation,ensure_ascii=False,indent=2))

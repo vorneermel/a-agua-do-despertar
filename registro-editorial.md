@@ -47,4 +47,4 @@ PDF: validação textual e visual local registrada em validacao.json. EPUB: estr
 
 ## Backup público
 
-Autorização permanente do usuário aplicável. Conector GitHub autenticado para leitura de perfil; criação de repositório e push não disponíveis nesse conector. CLI disponível, mas autenticação informou token inválido. Preservar commit local e informar sincronização pendente até envio verificado. Não enviar por outro serviço. O projeto tem repositório Git próprio para evitar misturar esta obra com outro livro.
+Autorização permanente do usuário aplicável. Em 07/10, a autenticação inválida e a conexão impediram o envio, e os commits foram preservados localmente. Em 10/10/2026, após renovação de acesso pelo usuário, o GitHub CLI criou o repositório público https://github.com/vorneermel/a-agua-do-despertar e enviou o histórico. Visibilidade PUBLIC e commit 9eeca45918f7f25dc827d09d456af889a36910a3 confirmados no remoto. O projeto tem repositório Git próprio para evitar misturar esta obra com outro livro. Nenhuma publicação comercial realizada.
